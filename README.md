@@ -1,4 +1,4 @@
-# The Barber Project
+# Coffee Shop Website Template
 
 A clean landing page built with **HTML & CSS**.
 
